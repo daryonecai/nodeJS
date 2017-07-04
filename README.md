@@ -28,6 +28,7 @@
 运行：node app.js
 访问：http://localhost:1337
 
+
 sails中文文档：http://sailsdoc.swift.ren/
 sails英文文档：http://sailsjs.com/
 
